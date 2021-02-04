@@ -1,0 +1,46 @@
+body{
+	background: #D4D3BE url('img/fundo.png');
+	font-family: "Verdana", "Arial", sans-serif;
+}
+
+p{
+	font-weight: bold;
+}
+
+a{
+	text-decoration: none;
+	font-weight: bold;
+	color: #04085D;
+	padding: 3px;
+}
+
+#principal{
+	width: 900px;
+	margin: 0 auto;
+}
+
+#menu{
+	text-align: center;
+	background-color: #D4D3BE;
+	padding: 25px;
+}
+
+#conteudo{
+	background-color: #fff;
+	padding: 12px;
+}
+
+#rodape{
+	text-align: center;
+}
+
+.titulo{
+	color: #91917C;
+	font-size: 1.2em;
+}
+
+.fotos_campanha{
+	width: 640px;
+	height: 425px;
+	border: 5px solid #D1CFB8;
+}
